@@ -1,24 +1,23 @@
 <h1 align="center">Hi, I'm Aumansh Vijayendra Gupta</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumansh&label=Profile%20views&color=0e75b6&style=flat" alt="aumansh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumansh" alt="aumansh" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently **architecting** deployment-ready **ML pipelines** and **Agentic AI** systems to **enhance production reliability**.
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to **collaborate** on scalable **GenAI applications** and **open-source frameworks** like the Multilingual Mandi Platform.
 
-- 🤝 I’m looking for help with **Docker**
+- 🤝 I’m actively **integrating** foundational models using **LangChain** and **AWS Bedrock** to **streamline enterprise workflows**.
 
-- 👨‍💻 All of my projects are available at this profile.
+- 👨‍💻 I recently **developed** a **federated learning framework (FLIP)**, achieving **99.23% accuracy** on MNIST datasets while **mitigating adversarial threats**.
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **LLM Orchestration, Generative AI, Homomorphic Encryption**, and cross-functional **problem-solving**.
 
-- 📫 How to reach me **aumanshgupta2004@gmail.com**
+- 📫 How to reach me: **aumanshgupta2004@gmail.com**
 
-
-- ⚡ Fun fact **I love to code all day**
+- ⚡ Fun fact: I recently **completed** the **Google & Kaggle 5-Day AI Agents Intensive** to further **optimize** autonomous agent orchestration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +28,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
