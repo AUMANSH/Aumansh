@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm Aumansh Vijayendra Gupta</h1>
-<h3 align="center">Artificial Intelligence Engineer</h3>
+<h3 align="center">Computer Engineer & Data Scientist | Building Scalable Software & ML Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumansh&label=Profile%20views&color=0e75b6&style=flat" alt="aumansh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumansh" alt="aumansh" /></a> </p>
 
-- 🌱 I’m currently **architecting** deployment-ready **ML pipelines** and **Agentic AI** systems to **enhance production reliability**.
+- 🌱 I’m currently **architecting** scalable **software backend systems**, robust **data pipelines**, and deployment-ready **ML models**.
 
-- 👯 I’m looking to **collaborate** on scalable **GenAI applications** and **open-source frameworks** like the Multilingual Mandi Platform.
+- 👯 I’m looking to **collaborate** on **full-stack applications**, **data engineering workflows**, and **open-source frameworks** like the Multilingual Mandi Platform.
 
-- 🤝 I’m actively **integrating** foundational models using **LangChain** and **AWS Bedrock** to **streamline enterprise workflows**.
+- 🤝 I’m actively **integrating** foundational AI models with **enterprise IT service management (ITSM)** workflows to **streamline operations**.
 
-- 👨‍💻 I recently **developed** a **federated learning framework (FLIP)**, achieving **99.23% accuracy** on MNIST datasets while **mitigating adversarial threats**.
+- 👨‍💻 My portfolio spans across domains: from **processing large-scale datasets (Data Waves)** to developing **federated learning frameworks (FLIP)** with **99.23% accuracy**.
 
-- 💬 Ask me about **LLM Orchestration, Generative AI, Homomorphic Encryption**, and cross-functional **problem-solving**.
+- 💬 Ask me about **Python/C++/Java, Data Structures & Algorithms, Cloud Infrastructure (AWS/GCP), or Machine Learning**.
 
 - 📫 How to reach me: **aumanshgupta2004@gmail.com**
 
-- ⚡ Fun fact: I recently **completed** the **Google & Kaggle 5-Day AI Agents Intensive** to further **optimize** autonomous agent orchestration.
+- ⚡ Fun fact: I love to bridge the gap between complex **data science** and practical **software engineering** to build tools people actually use.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
